@@ -1,0 +1,50 @@
+.list-item-container {
+  display: flex;
+  align-items: center;
+}
+.checkbox-style {
+  width: 20px;
+  height: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #c0c0c0;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.email-style {
+  text-align: left;
+  font-size: 16px;
+  width: 100px;
+}
+.name-style {
+  text-align: left;
+  font-size: 16px;
+  width: 300px;
+  margin-left: 200px;
+}
+.role-style {
+  text-align: left;
+  font-size: 16px;
+  width: 300px;
+  margin-left: 200px;
+}
+.react-icon-style {
+  font-size: 20px;
+}
+.react-delete-icon-style {
+  font-size: 20px;
+  color: red;
+}
+.button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.delete {
+  margin-left: 30px;
+}
+.horizontal-line {
+  border: 1px solid #eaeaea;
+  background-color: #eaeaea;
+}
